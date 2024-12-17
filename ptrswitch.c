@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+#include <string.h>	// For memset
 
 #define ARR_SIZE 10
 
