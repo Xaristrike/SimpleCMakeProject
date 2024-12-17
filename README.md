@@ -1,12 +1,10 @@
 # Simple CMake Project
-
 This is a simple project I created to learn how **CMake** works. It demonstrates a basic CMake setup for building and running a C program.
 
 ## Features
 
 - **Basic CMake setup** for compiling a C program.
 - **Custom build target** to run the executable after building.
-- **Executable output** placed in the source directory.
 
 ## Prerequisites
 
